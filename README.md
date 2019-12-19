@@ -8,3 +8,6 @@ Teste Git Flow
 
  Feature 2
  Essa é a 2
+ 
+ Feature 3
+ hgasdhgsahdg hsa
