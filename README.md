@@ -11,3 +11,7 @@ Teste Git Flow
  
  Feature 3
  hgasdhgsahdg hsa
+
+ Teste 1 incluido aqui.  Resultado da feture 1234.
+
+
