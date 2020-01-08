@@ -17,6 +17,7 @@ Teste Git Flow
  Teste 1.1 incluido aqui. Resultado da feture 1234.
 
 
-Teste ABC.1 
+Teste ABC.1
+Teste ABC.2
 
 
